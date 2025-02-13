@@ -1,5 +1,11 @@
+<script setup>
+    import HeaderView from '@/components/HeaderView.vue';
+    import { RouterLink,RouterView } from 'vue-router';
+</script>
+
 <template>
     <main>
-        <H1>About Page</H1>
+        <HeaderView/>
+        <h1>This is the register page</h1>
     </main>
 </template>
