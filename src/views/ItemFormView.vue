@@ -1,13 +1,13 @@
 <script setup>
     import HeaderView from '@/components/HeaderView.vue';
-    import FormLoginView from '@/components/FormLoginView.vue';
+    import ItemForm from  '@/components/ItemForm.vue';
     import Footerview from '@/components/FooterView.vue';
 </script>
 
 <template>
     <main>
         <HeaderView/>
-        <FormLoginView/>
+        <ItemForm/>
         <Footerview/>
     </main>
 </template>
