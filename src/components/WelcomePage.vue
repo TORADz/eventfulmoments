@@ -18,7 +18,7 @@ import { RouterLink } from 'vue-router';
       </div>
       
      <div class="grid md:grid-cols-2 gap-6 p-[70px] grid-cols-1">
-    <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm">
+    <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm hover:bg-[#FFF5A7] cursor-pointer">
         <div class="p-[25px]">
             <h2 class="font-bold">Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1st-century BC text De Finibus Bonorum et Malorum.</h2>
             <p class="text-[12px] pt-[20px]">Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real. Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real.</p>
@@ -31,7 +31,7 @@ import { RouterLink } from 'vue-router';
             </div>
         </div>
     </div>
-      <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm">
+      <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm hover:bg-[#FFF5A7] cursor-pointer">
         <div class="p-[25px]">
             <h2 class="font-bold">Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1st-century BC text De Finibus Bonorum et Malorum.</h2>
             <p class="text-[12px] pt-[20px]">Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real. Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real.</p>
@@ -44,7 +44,7 @@ import { RouterLink } from 'vue-router';
             </div>
         </div>
       </div>
-      <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm">
+      <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm hover:bg-[#FFF5A7] cursor-pointer">
         <div class="p-[25px]">
             <h2 class="font-bold">Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1st-century BC text De Finibus Bonorum et Malorum.</h2>
             <p class="text-[12px] pt-[20px]">Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real. Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real.</p>
@@ -57,7 +57,7 @@ import { RouterLink } from 'vue-router';
             </div>
         </div>
       </div>
-      <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm">
+      <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm hover:bg-[#FFF5A7] cursor-pointer">
         <div class="p-[25px]">
             <h2 class="font-bold">Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1st-century BC text De Finibus Bonorum et Malorum.</h2>
             <p class="text-[12px] pt-[20px]">Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real. Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It’s not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real.</p>
