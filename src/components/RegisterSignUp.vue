@@ -4,8 +4,8 @@ import { RouterLink } from "vue-router";
 </script>
 
 <template>
- <main class="flex justify-center items-center w-screen h-[80%] pt-[8%] font-(family-name:--bodyfont) shrink md:shrink-0">
-       <div class="w-[30%] ">
+ <main class="flex justify-center items-center w-screen h-[80%] pt-[8%] font-(family-name:--bodyfont) shrink md:shrink-0 text-center sm:text-left">
+       <div class="md:w-[30%] w-[85%]">
         <h1 class="text-(length:--heading1) font-(--fontbold)">Create an account,</h1>
         
         <form action="">

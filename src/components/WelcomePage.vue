@@ -5,8 +5,8 @@ import { RouterLink } from 'vue-router';
 
 <template>
     <main class="font-(family-name:--bodyfont) mt-[3%]">
-      <div class="flex justify-around gap-[40%]">
-        <div>
+      <div class="flex justify-around gap-[30%] flex-col md:flex-row items-center">
+        <div class="mb-[15px] md:mb-[0]">
         <h1 class="font-(--fontbold) text-[25px]">Welcome John Doe,</h1>
         <p class="text-[12px]">Here are items in your eventful moment bucket.</p>
       </div>
@@ -17,7 +17,7 @@ import { RouterLink } from 'vue-router';
 
       </div>
       
-     <div class="grid grid-cols-2 gap-6 h-[600px] p-[70px] ">
+     <div class="grid md:grid-cols-2 gap-6 p-[70px] grid-cols-1">
     <div class="border-solid rounded-[8px] shadow-black inset-shadow-2xs shadow-sm">
         <div class="p-[25px]">
             <h2 class="font-bold">Lorem ipsum began as scrambled, nonsensical Latin derived from Cicero’s 1st-century BC text De Finibus Bonorum et Malorum.</h2>
@@ -72,7 +72,7 @@ import { RouterLink } from 'vue-router';
       </div>
      </div>
 
-     <div class="flex justify-center mt-[150px]">
+     <div class="flex justify-center ">
       <button class=" bg-[#5271FF] text-white py-[15px] px-[60px] text-[12px] rounded-[10px] hover:bg-black">Load More</button>
      </div>
     </main>

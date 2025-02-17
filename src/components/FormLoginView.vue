@@ -4,7 +4,7 @@ import { RouterLink } from 'vue-router';
 
 <template>
     <main class="flex justify-center items-center w-screen h-[80%] pt-[8%] font-(family-name:--bodyfont) shrink md:shrink-0">
-       <div class="w-[30%] ">
+       <div class="md:w-[30%] w-[85%]" >
         <h1 class="text-(length:--heading1) font-(--fontbold)">Welcome Back,</h1>
         <p class="py-[5%]">Hi, my name is Eventful Moments, I am a bucket… no, not the bucket of water but I store awesome moments you will like to have in coming years.</p>
         <form action="">
