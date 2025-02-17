@@ -72,8 +72,8 @@ import { RouterLink } from 'vue-router';
       </div>
      </div>
 
-     <div class="flex justify-center ">
+     <RouterLink to="/load" class="flex justify-center ">
       <button class=" bg-[#5271FF] text-white py-[15px] px-[60px] text-[12px] rounded-[10px] hover:bg-black">Load More</button>
-     </div>
+     </RouterLink>
     </main>
 </template>
